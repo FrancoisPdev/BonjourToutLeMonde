@@ -7,5 +7,4 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 * :love_letter: www.francoisdparent.site - address 155.133.132.13
 * :email: parent.francois59@gmail.com
 ***
-### Merci de visiter mon github. vous êtes génial ! ;-) 
-![Aurevoir](https://cdn.pixabay.com/photo/2016/06/02/03/30/kiss-1430150_960_720.png)
+### Merci de visiter mon github. vous êtes génial ! ;-)
