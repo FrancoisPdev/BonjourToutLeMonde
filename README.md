@@ -8,4 +8,6 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 * :love_letter: www.francoisdparent.site - address IP : 155.133.132.13
 * :email: parent.francois59@gmail.com - thanks for send.
 ***
+go to view my cv : https://fanfanpsg.github.io/cv.github.io/
+***
 ### Merci de visiter mon github. vous êtes génial ! ;-)
