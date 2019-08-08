@@ -1,5 +1,5 @@
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
-# bonjourtoutlemonde
+# Bonjour tout le monde !
 
 1. Ici le but est de maitriser Github pour la premiere fois !
 De nombreux ajouts vont voir le jour, des collaborations, des exercices, et même des projets personnels
