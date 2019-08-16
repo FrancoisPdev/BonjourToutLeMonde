@@ -11,14 +11,20 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 ***
 * :love_letter: www.francoisdparent.site - address IP : 155.133.132.13
 * :email: parent.francois59@gmail.com - thanks for send.
+* [Twitter](https://twitter.com/Francois__dev)
 ***
-go to view my cv : https://fanfanpsg.github.io/cv.github.io/
-***
+  [voir mon cv web](https://github.com/fanfanpsg/PARENTFcv).
+  
+  à  ce jour (16 août 2019) j'ai reupload mon 1ier cv construit à l'avant poste de Simplon "la grande école du numérique", à Roubaix. Il restera consultable et open source j'usqu'à la fin d'internet !!!
+
 ### Merci de visiter mon github. vous êtes génial ! ;-)
 ***
 1. Here the goal, is for learn Github step by step !
 2. For me, it's very important of understand the logic application, "learn to learn" it's very hard
 but the exercice is so useful.
 3. My works evolves in Github and the good convenient to. Also you can visit my repos.
+4.   [view my cv](https://github.com/fanfanpsg/PARENTFcv).
+
+  You can view my first build -> cv in  "Old cv".
 
 ### Thanks you for visit, your are good !
