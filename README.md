@@ -13,6 +13,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 * :email: parent.francois59@gmail.com - thanks for send.
 * [Twitter](https://twitter.com/Francois__dev)
 * [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
+* [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
 
 ***
   [voir mon cv web](https://github.com/fanfanpsg/PARENTFcv).
