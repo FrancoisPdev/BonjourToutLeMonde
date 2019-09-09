@@ -10,8 +10,8 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
-* :love_letter: www.francoisdparent.site - address IP : 155.133.132.13
-* :email: parent.francois59@gmail.com - thanks for send.
+* [Mon site](https://www.francoisdparent.site/blog/) - address IP : 155.133.132.13
+* [Gmail](parent.francois59@gmail.com) - thanks for send.
 * [Twitter](https://twitter.com/Francois__dev)
 * [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
 * [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
