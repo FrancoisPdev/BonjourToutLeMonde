@@ -17,7 +17,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 * [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
 
 ***
-  [voir mon cv web](https://github.com/fanfanpsg/PARENTFcv).
+  [voir mon cv web](https://fanfanpsg.github.io/PARENTFcv/).
   
   à  ce jour (16 août 2019) j'ai reupload mon 1ier cv construit à l'avant poste de Simplon "la grande école du numérique", à Roubaix. Il restera consultable et open source j'usqu'à la fin d'internet !!!
 
@@ -27,7 +27,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 2. For me, it's very important of understand the logic application, "learn to learn" it's very hard
 but the exercice is so useful.
 3. My works evolves in Github and the good convenient to. Also you can visit my repos.
-4.   [view my cv](https://github.com/fanfanpsg/PARENTFcv).
+4.   [view my cv](https://fanfanpsg.github.io/PARENTFcv/).
 
   You can view my first build -> cv in  "Old cv".
 
