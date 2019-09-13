@@ -16,6 +16,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 * [Twitter](https://twitter.com/Francois__dev)
 * [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
 * [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
+* [Codewars](https://www.codewars.com/users/fanfanpsg)
 
 ***
   [voir mon cv web](https://fanfanpsg.github.io/PARENTFcv/).
