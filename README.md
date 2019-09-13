@@ -1,3 +1,5 @@
+![codewars](https://www.codewars.com/users/fanfanpsg/badges/micro)
+
 > go repo [Gitgit](https://github.com/fanfanpsg/BonjourToutLeMonde).
 
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
