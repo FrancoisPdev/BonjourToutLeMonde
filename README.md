@@ -1,4 +1,4 @@
-![codewars](https://www.codewars.com/users/fanfanpsg/badges/micro)
+![codewars](https://www.codewars.com/users/fanfanpsg/badges/large)
 
 > go repo [Gitgit](https://github.com/fanfanpsg/BonjourToutLeMonde).
 
