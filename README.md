@@ -15,7 +15,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 ***
 * [Mon site](https://www.francoisdparent.site/blog/) - address IP : 155.133.132.13
 * [Gmail](parent.francois59@gmail.com) - thanks for send.
-* [Twitter](https://twitter.com/Francois__dev)
+* [Twitter](https://twitter.com/Francois__dev) - compte pro
 * [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
 * [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
 * [Codewars](https://www.codewars.com/users/fanfanpsg)
