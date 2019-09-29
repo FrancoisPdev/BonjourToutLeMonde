@@ -1,7 +1,5 @@
 ![codewars](https://www.codewars.com/users/fanfanpsg/badges/large)
 
-> go repo [Gitgit](https://github.com/fanfanpsg/BonjourToutLeMonde).
-
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
 # Bonjour tout le monde !
 ![setup](https://images.pexels.com/photos/296115/pexels-photo-296115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
@@ -26,6 +24,8 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
   à  ce jour (16 août 2019) j'ai reupload mon 1ier cv construit à l'avant poste de Simplon "la grande école du numérique", à Roubaix. Il restera consultable et open source j'usqu'à la fin d'internet !!!
 
 ### Merci de visiter mon github. vous êtes génial ! ;-)
+
+> go repo [Gitgit](https://github.com/fanfanpsg/BonjourToutLeMonde).
 ***
 1. Here the goal, is for learn Github step by step !
 2. For me, it's very important of understand the logic application, "learn to learn" it's very hard
