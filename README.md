@@ -21,6 +21,8 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 ***
   [voir mon cv web](https://fanfanpsg.github.io/PARENTFcv/).
   
+  [voir mon sheet cheat JS](https://fanfanpsg.github.io/feuille-de-triche/).
+  
   à  ce jour (16 août 2019) j'ai reupload mon 1ier cv construit à l'avant poste de Simplon "la grande école du numérique", à Roubaix. Il restera consultable et open source j'usqu'à la fin d'internet !!!
 
 ### Merci de visiter mon github. vous êtes génial ! ;-)
