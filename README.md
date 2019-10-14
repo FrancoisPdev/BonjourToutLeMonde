@@ -1,13 +1,13 @@
 ![codewars](https://www.codewars.com/users/fanfanpsg/badges/large)
 
+Ici le but est de maitriser Github pour la premiere fois !
+De nombreux ajouts vont voir le jour, des collaborations, des exercices, et même des projets personnels il y a énorement de chose à dire et découvrir sur Github...
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
 # Bonjour tout le monde !
 ![setup](https://images.pexels.com/photos/296115/pexels-photo-296115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-1. Ici le but est de maitriser Github pour la premiere fois !
-De nombreux ajouts vont voir le jour, des collaborations, des exercices, et même des projets personnels
-2. pour moi il est important de maitriser le "Apprendre à apprendre" que l'on m'enseigne depuis maintenant 1an !
+1. pour moi il est important de maitriser le "Apprendre à apprendre" que l'on m'enseigne depuis maintenant 1an !
 Alors surfer sur mon profil pour voir mes contributions, mais aussi mes followers ^^ !
-3. Mes travaux évolues sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités
+2. Mes travaux évolues sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités
 et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
@@ -27,7 +27,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ### Merci de visiter mon github. vous êtes génial ! ;-)
 
-> go repo [Gitgit](https://github.com/fanfanpsg/BonjourToutLeMonde).
+
 ***
 1. Here the goal, is for learn Github step by step !
 2. For me, it's very important of understand the logic application, "learn to learn" it's very hard
