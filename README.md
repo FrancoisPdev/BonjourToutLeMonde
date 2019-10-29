@@ -21,7 +21,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 >* [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
 >* [Codewars](https://www.codewars.com/users/fanfanpsg)
 * [sheet cheat JS](https://fanfanpsg.github.io/feuille-de-triche-JS/).
-* [sheet cheat BDD}(https://fanfanpsg.github.io/feuille-de-triche-bdd/)
+* [sheet cheat BDD](https://fanfanpsg.github.io/feuille-de-triche-bdd/)(FR)
 * [postgre](https://github.com/fanfanpsg/postgre)
 
 ***
