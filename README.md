@@ -20,7 +20,8 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 >* [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
 >* [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
 >* [Codewars](https://www.codewars.com/users/fanfanpsg)
-* [sheet cheat JS](https://fanfanpsg.github.io/feuille-de-triche/).
+* [sheet cheat JS](https://fanfanpsg.github.io/feuille-de-triche-JS/).
+* [sheet cheat BDD}(https://fanfanpsg.github.io/feuille-de-triche-bdd/)
 * [postgre](https://github.com/fanfanpsg/postgre)
 
 ***
