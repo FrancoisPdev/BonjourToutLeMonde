@@ -1,20 +1,30 @@
 ![codewars](https://www.codewars.com/users/fanfanpsg/badges/large)
 
-Ici le but est de maitriser Github pour la premiere fois !
+Web surfer ! Ici le but est de maitriser Github pour la premiere fois !
 De nombreux ajouts vont voir le jour, des collaborations, des exercices, et même des projets personnels il y a énormement de chose à dire et découvrir sur Github...
+
+Nouvelle année nouveaux projets !
+
+en 2020 je comptes bien m'adapter. L'objectif est de continuer à connaitre les specificités du web
+* Les normes en matiere de securite.
+* Les bonnes pratiques du langage.
+* La connaissance des nouvelles technos.
+* La formation continue des bases des langages de programmations :
+  * savoir expliquer la logique du code
+  * savoir expliquer le fonctionnement du code
+  * appliquer la logique du code 
+  * appliquer le fonctionnement du code
 
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
 
 # Bonjour tout le monde !
-![setup](https://images.pexels.com/photos/296115/pexels-photo-296115.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![void](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
 1. pour moi il est important de maitriser le "Apprendre à apprendre" que l'on m'enseigne depuis maintenant 1an !
 Alors surfer sur mon profil pour voir mes contributions, mais aussi mes followers ^^ !
 2. Mes travaux évolues sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités
 et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
-
-* [Mon site](https://www.francoisdparent.site/blog/) - address IP : 155.133.132.13
 >* [Gmail](parent.francois59@gmail.com) - thanks for send.
 >* [Twitter](https://twitter.com/Francois__dev) - compte pro
 >* [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
