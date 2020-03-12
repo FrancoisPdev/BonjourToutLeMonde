@@ -30,10 +30,10 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 >* [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
 >* [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
 >* [Codewars](https://www.codewars.com/users/fanfanpsg)
-* [sheet cheat JS](https://fanfanpsg.github.io/feuille-de-triche-JS/).
-* [sheet cheat BDD](https://fanfanpsg.github.io/feuille-de-triche-bdd/)(FR)
-* [postgre](https://github.com/fanfanpsg/postgre)
-
+* [sheet cheat JS](https://francoispdev.github.io/feuille-de-triche-JS/).
+* [sheet cheat BDD](https://francoispdev.github.io/feuille-de-triche-bdd/)(FR)
+* [postegreSQL](https://github.com/fanfanpsg/postgre)
+* [SwiftUI/Swift](https://francoispdev.github.io/swift_Basic_Tuto_EN/)
 ***
 
   [voir mon cv web](https://fanfanpsg.github.io/PARENTFcv/).
