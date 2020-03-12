@@ -32,7 +32,7 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 >* [Codewars](https://www.codewars.com/users/fanfanpsg)
 * [sheet cheat JS](https://francoispdev.github.io/feuille-de-triche-JS/).
 * [sheet cheat BDD](https://francoispdev.github.io/feuille-de-triche-bdd/)(FR)
-* [postegreSQL](https://github.com/fanfanpsg/postgre)
+* [postegreSQL](https://francoispdev.github.io/postgre/)
 * [SwiftUI/Swift](https://francoispdev.github.io/swift_Basic_Tuto_EN/)
 ***
 
