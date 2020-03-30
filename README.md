@@ -14,6 +14,8 @@ en 2020 je comptes bien m'adapter. L'objectif est de continuer à connaitre les 
   * savoir expliquer le fonctionnement du code
   * appliquer la logique du code 
   * appliquer le fonctionnement du code
+  
+  Mon nouveau site : [ici](https://francoisdparent.fr/)
 
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
 
