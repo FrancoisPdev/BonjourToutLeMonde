@@ -16,7 +16,12 @@ en 2020 je comptes bien m'adapter. L'objectif est de continuer à connaitre les 
   * appliquer le fonctionnement du code
   
   Mon nouveau site : [ici](https://francoisdparent.fr/)
+***  
+Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", connaitre un peu plus comment s'articule les differents métiers liées à ces domaines me rend fou de joie !
+* https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle/6822141-reperez-vous-dans-le-champ-de-lintelligence-artificielle#/id/r-6823475
 
+Je vous souhaite bonne lecture et un bon apprentissage web surfeur.
+***
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
 
 # Bonjour tout le monde !
