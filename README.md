@@ -23,11 +23,15 @@ Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", conna�
 * https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle/6822141-reperez-vous-dans-le-champ-de-lintelligence-artificielle#/id/r-6823475
 
 Je vous souhaite bonne lecture et un bon apprentissage web surfeur.
+
 ***
+
 ![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
 
 # Bonjour tout le monde !
+
 ![void](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+
 1. Pour moi, il est important de maîtriser "l'Apprendre à apprendre" que l'on m'enseigne depuis maintenant 1an !
 Alors surfer sur mon profil pour voir mes contributions, mais aussi mes followers ^^ !
 2. Mes travaux évoluent sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités et ses moyens fantastiques de collaboration. Un vrai plaisir !
@@ -52,12 +56,12 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 ### Merci de visiter mon github. Vous êtes génial ! ;-)
 
 ***
+
 1. Here the goal, is for learn Github step by step !
 2. For me, it's very important of understand the logic application, "learn to learn" it's very hard
 but the exercice is so useful.
 3. My works evolves in Github and the good convenient to. Also you can visit my repos.
-4.   [view my cv](https://fanfanpsg.github.io/PARENTFcv/).
-
-  You can view my first build -> cv in  "Old cv".
+4. [view my cv](https://fanfanpsg.github.io/PARENTFcv/).
+* You can view my first build -> cv in  "Old cv".
 
 ### Thanks you for visit, your are good !
