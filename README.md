@@ -20,7 +20,7 @@ En 2020, je compte bien m'adapter. L'objectif est de continuer à connaître les
 *** 
 
 Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", connaître un peu plus comment s'articule les différents métiers liés à ces domaines me rend fou de joie !
-* https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle/6822141-reperez-vous-dans-le-champ-de-lintelligence-artificielle#/id/r-6823475
+* [OpenClassroom](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle/6822141-reperez-vous-dans-le-champ-de-lintelligence-artificielle#/id/r-6823475)
 
 Je vous souhaite bonne lecture et un bon apprentissage web surfeur.
 
@@ -49,7 +49,7 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 
 ***
 
-  [voir mon cv web](https://fanfanpsg.github.io/PARENTFcv/).
+[voir mon cv web](https://francoispdev.github.io/PARENTFcv/).
  
 À ce jour (16 août 2019) j'ai reupload mon 1er cv construit à l'avant-poste de Simplon "la grande école du numérique", à Roubaix. Il restera la consultable et open source jusqu'à la fin d'Internet !!!
 
@@ -61,7 +61,7 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 2. For me, it's very important of understand the logic application, "learn to learn" it's very hard
 but the exercice is so useful.
 3. My works evolves in Github and the good convenient to. Also you can visit my repos.
-4. [view my cv](https://fanfanpsg.github.io/PARENTFcv/).
+4. [view my cv](https://francoispdev.github.io/PARENTFcv/).
 * You can view my first build -> cv in  "Old cv".
 
 ### Thanks you for visit, your are good !
