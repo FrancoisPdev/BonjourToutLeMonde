@@ -1,23 +1,24 @@
 ![codewars](https://www.codewars.com/users/fanfan__Dev/badges/large)
 
-Web surfer ! Ici le but est de maitriser Github pour la premiere fois !
-De nombreux ajouts vont voir le jour, des collaborations, des exercices, et même des projets personnels il y a énormement de chose à dire et découvrir sur Github...
+Web surfer ! Ici, le but est de maîtriser Github pour la première fois !
+De nombreux ajouts vont voir le jour, des collaborations, des exercices, et même des projets personnels il y a énormément de chose à dire et découvrir sur Github...
 
 Nouvelle année nouveaux projets !
 
-en 2020 je comptes bien m'adapter. L'objectif est de continuer à connaitre les specificités du web
-* Les normes en matiere de securite.
-* Les bonnes pratiques du langage.
-* La connaissance des nouvelles technos.
-* La formation continue des bases des langages de programmations :
+En 2020, je compte bien m'adapter. L'objectif est de continuer à connaître les spécificités du web.
+* les normes en matière de sécurité.
+* les bonnes pratiques du langage.
+* la connaissance des nouvelles technos.
+* la formation continue des bases des langages de programmation :  
   * savoir expliquer la logique du code
   * savoir expliquer le fonctionnement du code
   * appliquer la logique du code 
   * appliquer le fonctionnement du code
   
   Mon nouveau site : [ici](https://francoisdparent.fr/)
-***  
-Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", connaitre un peu plus comment s'articule les differents métiers liées à ces domaines me rend fou de joie !
+*** 
+
+Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", connaître un peu plus comment s'articule les différents métiers liés à ces domaines me rend fou de joie !
 * https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle/6822141-reperez-vous-dans-le-champ-de-lintelligence-artificielle#/id/r-6823475
 
 Je vous souhaite bonne lecture et un bon apprentissage web surfeur.
@@ -26,10 +27,9 @@ Je vous souhaite bonne lecture et un bon apprentissage web surfeur.
 
 # Bonjour tout le monde !
 ![void](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
-1. pour moi il est important de maitriser le "Apprendre à apprendre" que l'on m'enseigne depuis maintenant 1an !
+1. Pour moi, il est important de maîtriser "l'Apprendre à apprendre" que l'on m'enseigne depuis maintenant 1an !
 Alors surfer sur mon profil pour voir mes contributions, mais aussi mes followers ^^ !
-2. Mes travaux évolues sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités
-et ses moyens fantastiques de collaboration. Un vrai plaisir !
+2. Mes travaux évoluent sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
 >* [Gmail](parent.francois59@gmail.com) - thanks for send.
@@ -45,12 +45,10 @@ et ses moyens fantastiques de collaboration. Un vrai plaisir !
 ***
 
   [voir mon cv web](https://fanfanpsg.github.io/PARENTFcv/).
-  
-  
-  à  ce jour (16 août 2019) j'ai reupload mon 1ier cv construit à l'avant poste de Simplon "la grande école du numérique", à Roubaix. Il restera consultable et open source j'usqu'à la fin d'internet !!!
+ 
+À ce jour (16 août 2019) j'ai reupload mon 1er cv construit à l'avant-poste de Simplon "la grande école du numérique", à Roubaix. Il restera la consultable et open source jusqu'à la fin d'Internet !!!
 
-### Merci de visiter mon github. vous êtes génial ! ;-)
-
+### Merci de visiter mon github. Vous êtes génial ! ;-)
 
 ***
 1. Here the goal, is for learn Github step by step !
