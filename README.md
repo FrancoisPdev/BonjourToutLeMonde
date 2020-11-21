@@ -15,8 +15,6 @@ En 2020, je compte bien m'adapter. L'objectif est de continuer à connaître les
   * appliquer la logique du code 
   * appliquer le fonctionnement du code
   
-  Mon nouveau site : [ici](https://francoisdparent.fr/)
-  
 *** 
 
 Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", connaître un peu plus comment s'articule les différents métiers liés à ces domaines me rend fou de joie !
@@ -37,7 +35,7 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 2. Mes travaux évoluent sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
->* [Gmail](parent.francois59@gmail.com) - thanks for send.
+>* [mail](admin@francoisdprent.fr) -
 >* [Twitter](https://twitter.com/Francois__dev) - compte pro
 >* [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
 >* [Stackoverflow](https://stackoverflow.com/users/12021233/parent-fran%c3%a7ois)
@@ -46,6 +44,7 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 * [sheet cheat BDD](https://francoispdev.github.io/feuille-de-triche-bdd/)(FR)
 * [postegreSQL](https://francoispdev.github.io/postgre/)
 * [SwiftUI/Swift](https://francoispdev.github.io/swift_Basic_Tuto_EN/)
+* [CISCO](https://github.com/FrancoisPdev/cmd-cisco/)
 
 ***
 
