@@ -35,6 +35,10 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 2. Mes travaux évoluent sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
+
+>* [CISCO](https://github.com/FrancoisPdev/cmd-cisco/)
+###### (retrouver qlq notions pour bien debuter)
+
 >* [mail](admin@francoisdprent.fr) -
 >* [Twitter](https://twitter.com/Francois__dev) - compte pro
 >* [Linkedin](https://www.linkedin.com/in/fran%C3%A7oisparent/)
@@ -44,7 +48,6 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 * [sheet cheat BDD](https://francoispdev.github.io/feuille-de-triche-bdd/)(FR)
 * [postegreSQL](https://francoispdev.github.io/postgre/)
 * [SwiftUI/Swift](https://francoispdev.github.io/swift_Basic_Tuto_EN/)
-* [CISCO](https://github.com/FrancoisPdev/cmd-cisco/)
 
 ***
 
