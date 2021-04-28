@@ -5,7 +5,7 @@ De nombreux ajouts vont voir le jour, des collaborations, des exercices, et mêm
 
 Nouvelle année nouveaux projets !
 
-En 2020, je compte bien m'adapter. L'objectif est de continuer à connaître les spécificités du web.
+En 2021, je compte bien m'adapter. L'objectif est de continuer à connaître les spécificités du web.
 * les normes en matière de sécurité.
 * les bonnes pratiques du langage.
 * la connaissance des nouvelles technos.
