@@ -14,8 +14,13 @@ En 2021, je compte bien m'adapter. L'objectif est de continuer à connaître les
   * savoir expliquer le fonctionnement du code
   * appliquer la logique du code 
   * appliquer le fonctionnement du code
-  
-*** 
+
+
+# Nouveau projet apres l'achat de mon IPad pro M1 je comptes poursuivre ma formation de padacodeur
+
+Apres une nouvelle fois 2 formations dispense par des personnes qui n'ont pas la vocation a enseigner je n'est pas perdu cette volonte de fer de poursuivre l'aventure. Pour 2022 il y a bien des choses que je vais continuer a learn et a bien me former sans oublier les exercices physiques.
+
+***
 
 Je porte aussi un nouveau regard sur l'IA, la robotique et le "Big Data", connaître un peu plus comment s'articule les différents métiers liés à ces domaines me rend fou de joie !
 * [OpenClassroom](https://openclassrooms.com/fr/courses/6417031-objectif-ia-initiez-vous-a-lintelligence-artificielle/6822141-reperez-vous-dans-le-champ-de-lintelligence-artificielle#/id/r-6823475)
