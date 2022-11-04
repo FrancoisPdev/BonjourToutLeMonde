@@ -15,9 +15,6 @@ En 2021, je compte bien m'adapter. L'objectif est de continuer à connaître les
   * appliquer la logique du code 
   * appliquer le fonctionnement du code
 
-
-# Nouveau projet apres l'achat de mon IPad pro M1 je comptes poursuivre ma formation de padacodeur
-
 Apres une nouvelle fois 2 formations dispense par des personnes qui n'ont pas la vocation a enseigner je n'est pas perdu cette volonte de fer de poursuivre l'aventure. Pour 2022 il y a bien des choses que je vais continuer a learn et a bien me former sans oublier les exercices physiques.
 
 ***
@@ -29,8 +26,6 @@ Je vous souhaite bonne lecture et un bon apprentissage web surfeur.
 
 ***
 
-![Hello world](https://cdn.pixabay.com/photo/2018/08/30/03/34/aerial-3641197_960_720.jpg)
-
 # Bonjour tout le monde !
 
 ![void](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
@@ -40,9 +35,6 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 2. Mes travaux évoluent sur Github et mes bonnes pratiques aussi ! Prendre en main la plate-forme, découvrir les subtilités et ses moyens fantastiques de collaboration. Un vrai plaisir !
 
 ***
-
->* [CISCO](https://github.com/FrancoisPdev/cmd-cisco/)
-###### (retrouver qlq notions pour bien debuter)
 
 >* [mail](admin@francoisdprent.fr) -
 >* [Twitter](https://twitter.com/Francois__dev) - compte pro
@@ -54,12 +46,16 @@ Alors surfer sur mon profil pour voir mes contributions, mais aussi mes follower
 * [sheet cheat BDD](https://francoispdev.github.io/feuille-de-triche-bdd/)(FR)
 * [postegreSQL](https://francoispdev.github.io/postgre/)
 * [SwiftUI/Swift](https://francoispdev.github.io/swift_Basic_Tuto_EN/)
+* [CISCO](https://github.com/FrancoisPdev/cmd-cisco/)
+###### (retrouver qlq notions pour bien debuter)
 
 ***
 
 [voir mon cv web](https://francoispdev.github.io/PARENTFcv/).
  
-À ce jour (16 août 2019) j'ai reupload mon 1er cv construit à l'avant-poste de Simplon "la grande école du numérique", à Roubaix. Il restera la consultable et open source jusqu'à la fin d'Internet !!!
+j'ai reupload mon 1er cv construit à l'avant-poste de Simplon "la grande école du numérique", à Roubaix. Il restera la consultable et open source jusqu'à la fin d'Internet !!! (et conceptionné un nouveau CV)
+
+[Le nouveau](https://github.com/FrancoisPdev/CV2)
 
 ### Merci de visiter mon github. Vous êtes génial ! ;-)
 
